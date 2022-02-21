@@ -1,12 +1,6 @@
 let items = [
 
-    {
-        type: "dinner",
-        name: "scrambled eggs",
-        image: "https://www.asweetpeachef.com/wp-content/uploads/2014/09/how-to-make-the-best-scrambled-eggs-4.jpg",
-        price: "$2.09",
-        description: " onions and eggs fried with tomates,tes,onions and eggs fried with tomates fried with tomates,fried with tomates,  onions and eggs fried with tomates,  onions and eggs fried with tomates,fried with tomates,  onions and eggs"
-    },
+ 
 
     {
         type: "shakes",
@@ -112,6 +106,14 @@ let items = [
         name: "flour",
         image: "https://media.istockphoto.com/photos/field-of-different-types-of-donuts-picture-id465529983?b=1&k=20&m=465529983&s=170667a&w=0&h=wZ403DEEzskTZ7GFDTya4apixOM-iRoVYd7CIOPvcOI=",
         description: "donuts,meatpies,fishpie,sausageroll,meatballs, donuts,meatpies,fishpie,sausageroll,meatballs eggrolls, donuts,meatpies,fishpie,sausageroll,meatballs",
+    },
+
+    {
+        type: "dinner",
+        name: "scrambled eggs",
+        image: "https://www.asweetpeachef.com/wp-content/uploads/2014/09/how-to-make-the-best-scrambled-eggs-4.jpg",
+        price: "$2.09",
+        description: " onions and eggs fried with tomates,tes,onions and eggs fried with tomates fried with tomates,fried with tomates,  onions and eggs fried with tomates,  onions and eggs fried with tomates,fried with tomates,  onions and eggs"
     },
 ]
 
