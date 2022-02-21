@@ -1,18 +1,19 @@
 let items = [
 
     {
-        type: "shakes",
-        name: "lights",
-        image: "https://pallybiscuits.com/wp-content/uploads/2018/09/digestive-500x300-500x300.jpg",
-        price: "$1.53",
-        description: "cookies,cabins,crackers,parleG, speedy,fish-biscuit cookies,cabins,crackers,parleG, speedy,fish-biscuit cookies,cabins,crackers,parleG, speedy,fish-biscuit"
+        type: "dinner",
+        name: "scrambled eggs",
+        image: "https://www.asweetpeachef.com/wp-content/uploads/2014/09/how-to-make-the-best-scrambled-eggs-4.jpg",
+        price: "$2.09",
+        description: " onions and eggs fried with tomates,tes,onions and eggs fried with tomates fried with tomates,fried with tomates,  onions and eggs fried with tomates,  onions and eggs fried with tomates,fried with tomates,  onions and eggs"
     },
+
     {
         type: "shakes",
         name: "banana shakes",
         image: "https://media.istockphoto.com/photos/milk-shakes-in-plastic-cups-and-straws-on-a-dark-wooden-table-picture-id1311373994?b=1&k=20&m=1311373994&s=170667a&w=0&h=jBCnbjNhWueI5JJNV1Qagba2ek8PtGM9iZjmcPaSJPI=",
         price: "$1.08",
-        description: "blended milk with blended milk with banana blended milk with blended milk with banana blended milk with blended milk with banana"
+        description: "blended milk with blended milk with blended milk with banana blended milk with b blended milk with b blended milk with banana blended milk with blended milk with banana blended milk with blended milk with banana"
     },
 
 
@@ -21,7 +22,7 @@ let items = [
         name: "samosas",
         image: "https://image.shutterstock.com/image-photo/small-chops-combo-260nw-792009511.jpg",
         price: "$6.92",
-        description: "fried samosa, puff-puffs,gizzards,springrolls fried samosa, puff-puffs,gizzards,springrolls fried samosa, puff-puffs,gizzards,springrolls fried samosa, puff-puffs,gizzards,springrolls"
+        description: "fried samosa, puff-puffs,gizzards,springrolls fried samosa, puff-puffs,gizzards, fried samosa, puff-puffs,gizzards,springrolls fried samosa, puff-puffs,gizzards,springrolls"
     },
 
     {
@@ -29,16 +30,16 @@ let items = [
         name: "bread",
         image: "https://media.istockphoto.com/photos/heap-of-bread-picture-id995038782?b=1&k=20&m=995038782&s=170667a&w=0&h=DhnB0WJOySvxTwwCOeUagMmDCGFEykDxZsCgmkOSIZM=",
         price: "$3.02",
-        description: " bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread"
+        description: "bread brown bread brown breadbread brown bread brown bread brown breadbread brown breadbread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread brown bread"
     },
 
 
     {
         type: "shakes",
         name: "non-alcholic",
-        image: "https://img.lovepik.com/photo/40031/2791.jpg_wh300.jpg",
+        image: "https://7omcu3a78zp40klds2w28klr-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/GettyImages-900247658-350x233.jpg",
         price: "$2.04",
-        description: "milkshakes juice, wine,smoothies,water,enegry drinks,milkshakes juice, wine,smoothies,water,enegry drinks,milkshakes juice, wine,smoothies,water,enegry drinks,milkshakes"
+        description: "milkshakes juice, wine,smoothies,water,enegry,milkshakes juice, wine,smoothies,water,enegry drinks,milkshakes juice, wine,smoothies,water,enegry drinks,milkshakes"
     },
 
     {
@@ -46,14 +47,14 @@ let items = [
         name: "soups",
         image: "https://image.shutterstock.com/image-photo/vegetable-soup-on-white-plate-260nw-1443832184.jpg",
         price: "$1.03",
-        description: "nsala,onugbu,ogbona,white soup egusi,ewedu,afang,ifokore,onugbu,ogbona,white egusi,ewedu,afang,ifokore,efor,nsala,onugbu,ogbona"
+        description: "nsala,onugbu,ogbona,white soup egusi,ewedu,afang,nsala,onugbu,ogbona,white soup egusi,ewedu,afang,ifokore,onugbu,ogbona,white egusi,ewedu,afang,ifokore,efor,nsala,onugbu,ogbona"
     },
     {
         type: "dinner",
         name: "swallows",
         image: "https://www.radianthealthmag.com/wp-content/uploads/2015/01/Eba-11.jpg",
         price: "$5.76",
-        description: "amala,eba,pounded yam,semovita,fufu,dawa dawa,starch, tuwo amala,eba,pounded yam,semovita,fufu,dawa dawa,starch, tuwo",
+        description: "amala,eba,pounded yam,semovita,fufu,dawaamala,eba,pounded yam,semovita,fufu,dawa dawa,starch, dawa,starch,amala,eba,pounded yam,semovita,fufu,dawa dawa,starch, tuwo amala,eba,pounded yam,semovita,fufu,dawa dawa,starch, tuwo",
     },
 
 
@@ -62,7 +63,7 @@ let items = [
         name: "meats",
         image: "https://media.istockphoto.com/photos/balanced-diet-food-background-picture-id1151799593?k=20&m=1151799593&s=612x612&w=0&h=jRs5hyc8u1QZ1hqL5IrPQTwyXqG_i2KGyYDlN7IbCzY=",
         price: "$1.09",
-        description: "pork,beef,chicken,sharki,roundabout,gizzards, meat,pork,beef,chicken,sharki,roundabout,gizzards, meat,pork,beef,chicken,sharki,roundabout,gizzards"
+        description: "pork,beef,chicken,sharki,roundabout,gizzards, meat,pork,beef,roundabout,gizzards, meat,pork,beef,chicken,porkroundabout,gizzards, meat,pork,beef,chicken,sharki,roundabout,gizzards, meat,pork,beef,chicken,sharki,roundabout,gizzards"
     },
 
     {
@@ -79,7 +80,7 @@ let items = [
         price: "$2.65",
         name: "snack",
         image: "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,g_auto,w_480,h_322,q_auto,f_auto,fl_lossy/org/v7933wggqkpwpmeri.jpg",
-        description: " dorritos, chips,meatballs donuts,meatpies,fishpie,eggrolls,meatballs donuts,meatpies,fishpie,,eggrolls,sausageroll,meatball,chips, plantains"
+        description: " dorritos,meatballs donuts,meatpies,fishpie,eggrolls,meatballs donuts,meatpies,fishpie,,eggrolls,meatball,chips, plantains"
     },
 
     {
@@ -97,14 +98,14 @@ let items = [
         price: "$3.09",
         description: ",vegetables,watermelons,grapes great carrots,apples,lemons,vegetables,watermelons,grapes great carrots,apples,lemons,vegetables,watermelons,grapes",
     },
-
     {
-        type: "dinner",
-        name: "scrambled eggs",
-        image: "https://www.asweetpeachef.com/wp-content/uploads/2014/09/how-to-make-the-best-scrambled-eggs-4.jpg",
-        price: "$2.09",
-        description: " onions and eggs fried with tomates,  onions and eggs fried with tomates,  onions and eggs fried with tomates,  onions and eggs fried with tomates,  onions and eggs fried with tomates,  onions and eggs"
+        type: "shakes",
+        name: "lights",
+        image: "https://us.123rf.com/450wm/onlyblack/onlyblack1903/onlyblack190300030/118716308-golden-cookies-in-a-transparent-package-close-up-isolated-on-white-background-.jpg?ver=6",
+        price: "$1.53",
+        description: "cookies,cabins,crackers,parleG, speedy,fish-biscuit cookies,cabins,crackers,parleG, speedy,fish-biscuit cookies,cabins,crackers,parleG, speedy,fish-biscuit"
     },
+    
     {
         type: "launch",
         price: "$2.01",
@@ -133,7 +134,7 @@ for (let i = 0; i < items.length; i++) {
 
 
     food.textContent = items[i].name;
-    food.style.marginLeft = "48%";
+    food.style.marginLeft = "43%";
     food.style.marginBottom = "12%"
     food.style.color = " rgb(151, 140, 170)";
     food.style.fontSize = "24px";
@@ -144,16 +145,16 @@ for (let i = 0; i < items.length; i++) {
     amount.style.color = "chocolate"
     title.textContent = items[i].description;
     title.style.overflowWrap = "word-break"
-    title.style.marginLeft = "47%";
+    title.style.marginLeft = "41.5%";
     title.style.marginBottom = "-43%"
     images.src = items[i].image;
     images.style.height = "180px";
     images.style.marginTop = "23%";
     images.style.marginBottom = "20%";
-    images.style.marginLeft = "-1%";
+    images.style.marginLeft = "6%";
     images.style.border = "4px solid chocolate";
     images.style.borderRadius = "4px";
-    line.style.marginLeft = "47%";
+    line.style.marginLeft = "41.5%";
     line.style.width = "50%"
 
     div.appendChild(names);

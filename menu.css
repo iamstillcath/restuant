@@ -62,6 +62,5 @@ box-shadow: 1px 1px;
   margin-top: 175px;
   display:grid;
  grid-template-columns: repeat(2, 2fr);
- grid-column-gap: 17%;
- /* word-wrap: normal; */
+
 }   
